@@ -1,0 +1,21 @@
+Toolkit Plan
+
+Tools
+
+1. Number guessing game: The program asks the player to guess a secret number and tells them whether each guess is too high or too low.
+   Concepts: loop, conditional, variable, input, integer conversion.
+
+2. Simple calculator: The program asks for two numbers and an operation, then displays the calculated result.
+   Concepts: conditional, input, float conversion, arithmetic, f-string.
+
+3. To-do list: The program lets the user add tasks, view the current tasks, and clear the list.
+   Concepts: list, loop, conditional, append, f-string.
+
+Exact menu text
+
+=== My Toolkit ===
+1. Number guessing game
+2. Simple calculator
+3. To-do list
+4. Quit
+Choose a tool (1-4):
